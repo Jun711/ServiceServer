@@ -1,0 +1,64 @@
+1)
+concurrency map
+http://stackoverflow.com/questions/26621907/how-to-avoid-hashmap-concurrentmodificationexception-while-manipulating-value
+
+2)
+detect if hashmap has changed
+http://stackoverflow.com/questions/25622939/java-how-to-detect-whether-a-hashmap-has-changed-after-some-time-or-operations
+
+3)
+java lock
+http://www.journaldev.com/2377/java-lock-example-reentrantlock
+
+4)
+singleton
+http://howtodoinjava.com/design-patterns/creational/singleton-design-pattern-in-java/
+http://stackoverflow.com/questions/4074154/when-should-the-singleton-pattern-not-be-used-besides-the-obvious
+
+5) 
+multithreaded junit test
+http://softwareengineering.stackexchange.com/questions/185953/junit-testing-in-multithread-application
+https://vmlens.com/articles/a-new-way-to-junit-test-your-multithreaded-java-code/
+
+6) 
+timer ex
+http://www.journaldev.com/1050/java-timer-timertask-example
+https://www.mkyong.com/java/how-to-run-a-task-periodically-in-java/
+
+7)
+scheduledExecutor
+http://stackoverflow.com/questions/20387881/how-to-run-certain-task-every-day-at-a-particular-time-using-scheduledexecutorse
+
+http://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ScheduledExecutorService.html#scheduleAtFixedRate-java.lang.Runnable-long-long-java.util.concurrent.TimeUnit-
+
+http://howtodoinjava.com/core-java/multi-threading/task-scheduling-with-executors-scheduledthreadpoolexecutor-example/
+
+To read:
+UDP vs TCP
+
+Note:
+1)
+printstream: displaying / char
+dataoutputstream: binary data
+
+2) is.readLine == null
+http://stackoverflow.com/questions/21101358/how-to-stop-a-nullpointerexception-when-using-bufferedreader-readline-to-che
+
+3)
+http://stackoverflow.com/questions/19003430/what-are-the-possible-reason-for-a-java-util-concurrent-rejectedexecutionexcepti
+
+4) multithreading
+https://www.tutorialspoint.com/java/java_multithreading.htm
+http://makemobiapps.blogspot.ca/p/multiple-client-server-chat-programming.html
+http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html
+http://stackoverflow.com/questions/8579657/whats-the-difference-between-thread-start-and-runnable-run
+
+5)
+scheduledExecutor
+http://tutorials.jenkov.com/java-util-concurrent/scheduledexecutorservice.html
+http://howtodoinjava.com/core-java/multi-threading/task-scheduling-with-executors-scheduledthreadpoolexecutor-example/
+
+6）
+concurrency
+http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+
